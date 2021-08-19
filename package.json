@@ -1,0 +1,16 @@
+{
+  "name": "electron-in-docker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron . --no-sandbox"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^13.1.7",
+    "electron-rebuild": "^2.3.5",
+    "libxmljs": "^0.19.7"
+  }
+}
